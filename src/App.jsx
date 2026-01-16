@@ -5,7 +5,7 @@ function App() {
   return (
     <>
 <h1>Learn reach with Me</h1>
-<p>THis is a sub heading..</p>
+<p>I'm changing this picture..</p>
   </>
   )
 }
