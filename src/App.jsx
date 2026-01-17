@@ -4,8 +4,8 @@ import './App.css'
 function App() {
   return (
     <>
-<h1>Learn reach with Me</h1>
-<p>I'm changing this picture..</p>
+<h1>I Love you Swathi..</h1>
+<p>Do you love me.. from Prashanth</p>
   </>
   )
 }
